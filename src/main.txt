@@ -1,1 +1,2 @@
-Boring Is All You Need: a Codex Desktop workflow replacement with transactional 
+Boring Is All You Need: a Codex Desktop workflow replacement with transactional
+# drop an unused branch
