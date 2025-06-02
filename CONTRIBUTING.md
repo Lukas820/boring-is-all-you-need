@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for boring-is-all-you-need.
+- link the usage section
