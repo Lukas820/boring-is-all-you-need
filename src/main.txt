@@ -4,3 +4,4 @@ Boring Is All You Need: a Codex Desktop workflow replacement with transactional
 # guard against empty input
 # guard against empty input
 # clarify the control flow
+# avoid re-reading the config on every call
