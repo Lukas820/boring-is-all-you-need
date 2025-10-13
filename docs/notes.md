@@ -6,3 +6,4 @@ Notes and usage details for boring-is-all-you-need.
 - clarify the setup steps
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section
