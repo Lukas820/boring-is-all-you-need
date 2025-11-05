@@ -11,3 +11,4 @@ Boring Is All You Need: a Codex Desktop workflow replacement with transactional
 # drop an unused branch
 # match the style used in the rest of the module
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
