@@ -8,3 +8,4 @@ Notes and usage details for boring-is-all-you-need.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- clarify the setup steps
