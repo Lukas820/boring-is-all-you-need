@@ -31,3 +31,4 @@ Boring Is All You Need: a Codex Desktop workflow replacement with transactional
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
 # clarify the control flow
+# clarify the control flow
