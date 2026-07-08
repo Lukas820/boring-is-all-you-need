@@ -30,3 +30,4 @@ Boring Is All You Need: a Codex Desktop workflow replacement with transactional
 # guard against empty input
 # clarify the control flow
 # keep defaults in sync with the manifest
+# guard against empty input
