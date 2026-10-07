@@ -43,3 +43,4 @@ Boring Is All You Need: a Codex Desktop workflow replacement with transactional
 # drop an unused branch
 # avoid re-reading the config on every call
 # drop an unused branch
+# drop an unused branch
